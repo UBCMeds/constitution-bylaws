@@ -2,13 +2,32 @@
 
 **OF THE UNIVERSITY OF BRITISH COLUMBIA**
 
-CONSTITUTION
-==========================================================================================================
+# CONSTITUTION
 
 RATIFIED the 7<sup>th</sup> day of April, 2008. AMENDED the 8<sup>th</sup> day of April, 2013. AMENDED the 14<sup>th</sup> day of April, 2015. AMENDED the 18<sup>th</sup> day of April, 2016.
 
-ARTICLE I - THE SOCIETY
----------------------------------------------------------------------------------------------------------------------
+- [CONSTITUTION](#constitution)
+	- [ARTICLE I - THE SOCIETY](#article-i-the-society)
+		- [I.1 - Name](#i1-name)
+		- [I.2 - Vision](#i2-vision)
+		- [I.3 - Objectives](#i3-objectives)
+		- [I.4 - The Society Logo](#i4-the-society-logo)
+	- [ARTICLE II - MEMBERSHIP](#article-ii-membership)
+		- [II.1 - Active Members](#ii1-active-members)
+		- [II.2 - Honorary Members](#ii2-honorary-members)
+	- [ARTICLE III - EXECUTIVE BODIES](#article-iii-executive-bodies)
+		- [III.1 - Council](#iii1-council)
+		- [III.2 - The Executive](#iii2-the-executive)
+		- [III.3 - Class Executives](#iii3-class-executives)
+		- [III.4 - Advisors](#iii4-advisors)
+	- [ARTICLE IV - AUTHORITATIVE DOCUMENTS](#article-iv-authoritative-documents)
+		- [IV.1 - Authoritative Documents](#iv1-authoritative-documents)
+		- [IV.1.1 - Constitution](#iv11-constitution)
+		- [IV.1.2 - Bylaws](#iv12-bylaws)
+		- [IV.2 - Enactment, Amendment and Repeal of the Constitution or Bylaws](#iv2-enactment-amendment-and-repeal-of-the-constitution-or-bylaws)
+	- [ARTICLE V - DISSOLUTION](#article-v-dissolution)
+
+## ARTICLE I - THE SOCIETY
 
 ### I.1 - Name
 
@@ -40,8 +59,7 @@ The Objectives of the Society shall be:
 
 The Society Logo is shown in the accompanying design and shall be used in accordance with Bylaw 11, “Acceptable Use of the Society Logo.”
 
-ARTICLE II - MEMBERSHIP
----------------------------------------------------------------------------------------------------------------------
+## ARTICLE II - MEMBERSHIP
 
 Membership in the Society shall be granted as follows:
 
@@ -57,8 +75,7 @@ Honorary Members shall include:
 
 2.  Those individuals upon whom the Society confers honorary membership (refer to 4.1.2e).
 
-ARTICLE III - EXECUTIVE BODIES
-----------------------------------------------------------------------------------------------------------------------------
+## ARTICLE III - EXECUTIVE BODIES
 
 ### III.1 - Council
 
@@ -88,8 +105,7 @@ ARTICLE III - EXECUTIVE BODIES
 
 1.  There shall be Member(s) of the Faculty elected by the Society at the Annual General Meeting to serve in advisory capacities to the Society. A Faculty Advisor and such Associate Faculty Advisors, as approved by the Society, shall serve a two-year term and may be re-elected for a total of four terms normally, unless otherwise determined by the Society.
 
-ARTICLE IV - AUTHORITATIVE DOCUMENTS
-----------------------------------------------------------------------------------------------------------------------------------
+## ARTICLE IV - AUTHORITATIVE DOCUMENTS
 
 ### IV.1 - Authoritative Documents
 
@@ -131,7 +147,6 @@ The Bylaws shall further define the regular operation and structure of the Socie
 
 4.  Not less than thirty (30) and not more than sixty (60) days after posting of the proposed amendments, Council shall submit said amendment to the Society at an Annual General meeting or Special General meeting, or by referendum, as provided in this Article. Notice of intention to repose any amendments shall be given in the notice convening the Annual General meeting or Special General meeting or calling the referendum.
 
-ARTICLE V - DISSOLUTION
----------------------------------------------------------------------------------------------------------------------
+## ARTICLE V - DISSOLUTION
 
 In the event of dissolution of the Society, after resolving its debts and obligations, the Society shall devote any remaining assets to the promotion of one or more objects of the Society if feasible, and if not, the Society shall donate its remaining assets to the Faculty of Medicine of The University of British Columbia to be put towards the creation of a new Scholarship for undergraduate medical students if feasible, and if not, to a Canadian charity or charities, which the Society shall select.

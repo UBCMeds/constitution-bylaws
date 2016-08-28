@@ -2,13 +2,172 @@
 
 **OF THE UNIVERSITY OF BRITISH COLUMBIA**
 
-BYLAWS
-====================================================================================================
+# BYLAWS
 
 RATIFIED the 7<sup>th</sup> day of April, 2008. AMENDED the 8<sup>th</sup> day of April, 2013. AMENDED the 14<sup>th</sup> day of April, 2015. AMENDED the 18<sup>th</sup> day of April, 2016.
 
-BYLAW 1 - INTERPRETATION AND DEFINITIONS
---------------------------------------------------------------------------------------------------------------------------------------
+  - [BYLAWS](#bylaws)
+    - [BYLAW 1 - INTERPRETATION AND DEFINITIONS](#bylaw-1---interpretation-and-definitions)
+    - [BYLAW 2 - RIGHTS AND OBLIGATIONS OF MEMBERS](#bylaw-2---rights-and-obligations-of-members)
+      - [2.1 - Rights of Members](#21---rights-of-members)
+      - [2.2 - Obligations of Members](#22---obligations-of-members)
+    - [BYLAW 3 - STRUCTURE OF THE SOCIETY](#bylaw-3---structure-of-the-society)
+      - [3.1 - The Executive](#31---the-executive)
+      - [3.2 - The Council](#32---the-council)
+      - [3.2.1 - Voting Council Members](#321---voting-council-members)
+      - [3.2.2 - Non-voting Council Members](#322---non-voting-council-members)
+      - [3.3 - Class Executives](#33---class-executives)
+      - [3.4 - Selected Positions](#34---selected-positions)
+    - [BYLAW 4 - DUTIES OF COUNCIL MEMBERS](#bylaw-4---duties-of-council-members)
+      - [4.1 - General Duties of all Council Members](#41---general-duties-of-all-council-members)
+      - [4.1.1 Duties of Council Members](#411-duties-of-council-members)
+      - [4.1.2 - Duties of Executive Members](#412---duties-of-executive-members)
+      - [4.2 - Position Descriptions of individual Council Members](#42---position-descriptions-of-individual-council-members)
+      - [4.2.1 - President](#421---president)
+      - [4.2.2 - Vice President External Sr.](#422---vice-president-external-sr)
+      - [4.2.3 - Vice President Academic Sr.](#423---vice-president-academic-sr)
+      - [4.2.4 - Vice President Internal](#424---vice-president-internal)
+      - [4.2.5 - Past President](#425---past-president)
+      - [4.2.6 - Vice President Finance Sr.](#426---vice-president-finance-sr)
+      - [4.2.6.1. - Vice President Finance Jr.](#4261---vice-president-finance-jr)
+      - [4.2.7 - Vice President Communications Sr.](#427---vice-president-communications-sr)
+      - [4.2.7.1 - Vice President Communications Jr.](#4271---vice-president-communications-jr)
+      - [4.2.8 - Vice President IMP](#428---vice-president-imp)
+      - [4.2.9 - Vice President NMP](#429---vice-president-nmp)
+      - [4.2.10 - Vice President SMP](#4210---vice-president-smp)
+      - [4.2.11 - Year Presidents (Year I, Year II, Year III and Year IV)](#4211---year-presidents-year-i-year-ii-year-iii-and-year-iv)
+      - [4.2.11.1 - Year I President](#42111---year-i-president)
+      - [4.2.11.2 - Year II President](#42112---year-ii-president)
+      - [4.2.11.3 - Year III President](#42113---year-iii-president)
+      - [4.2.11.4 - Year IV President](#42114---year-iv-president)
+      - [4.2.12 - Vice President External Jr.](#4212---vice-president-external-jr)
+      - [4.2.13 - Vice President Academic Jr.](#4213---vice-president-academic-jr)
+      - [4.2.14 - AMS Representative](#4214---ams-representative)
+      - [4.2.15 - Senator](#4215---senator)
+      - [4.2.16 - VP Global Health Sr.](#4216---vp-global-health-sr)
+      - [4.2.17 - VP Global Health Jr.](#4217---vp-global-health-jr)
+      - [4.2.18 - Director of Sponsor and Donor Relations](#4218---director-of-sponsor-and-donor-relations)
+      - [4.2.19 - Vice President IMP Social](#4219---vice-president-imp-social)
+      - [4.2.20 - Vice President NMP Social](#4220---vice-president-nmp-social)
+      - [4.2.21 - Vice President SMP Social](#4221---vice-president-smp-social)
+      - [4.2.22 - Information Technology Officer Sr.](#4222---information-technology-officer-sr)
+      - [4.2.23 - Information Technology Officer Jr.](#4223---information-technology-officer-jr)
+      - [4.2.24 - Sports Director](#4224---sports-director)
+      - [4.2.25 - Clubs Representative](#4225---clubs-representative)
+      - [4.2.26 - Faculty Advisor](#4226---faculty-advisor)
+      - [4.2.27 - MUSings Editor](#4227---musings-editor)
+      - [4.2.28 - Admissions Committee Representative Sr.](#4228---admissions-committee-representative-sr)
+      - [4.2.29 - Admissions Committee Representative Jr.](#4229---admissions-committee-representative-jr)
+      - [4.2.30 - Medical Ball Coordinator](#4230---medical-ball-coordinator)
+      - [4.2.31 - Political Advocacy Committee Chair](#4231---political-advocacy-committee-chair)
+      - [4.2.32 - UBC Medical Journal Editors-in-chief](#4232---ubc-medical-journal-editors-in-chief)
+      - [4.2.33 - MUS Research Forum Chair(s)](#4233---mus-research-forum-chairs)
+      - [4.2.34 - MSAC Gym Representative](#4234---msac-gym-representative)
+      - [4.2.34 - CFMS Local Officer of Global Health Education (LOGHE) Jr. & Sr.](#4234---cfms-local-officer-of-global-health-education-loghe-jr--sr)
+      - [4.2.35 - CFMS Global Health Advocate (GHA) Jr. & Sr.](#4235---cfms-global-health-advocate-gha-jr--sr)
+      - [4.2.36 - CFMS Local Officer of Reproductive & Sexual Health (LORSH) Jr. & Sr.](#4236---cfms-local-officer-of-reproductive--sexual-health-lorsh-jr--sr)
+      - [4.2.37 - CFMS Local Officer of Indigenous Health (LOIH) Jr. & Sr.](#4237---cfms-local-officer-of-indigenous-health-loih-jr--sr)
+      - [4.3 - Position Descriptions of individual Class Executive Members](#43---position-descriptions-of-individual-class-executive-members)
+      - [4.3.1 - Class Vice President Academic](#431---class-vice-president-academic)
+      - [4.3.2 - Class Vice President IMP](#432---class-vice-president-imp)
+      - [4.3.3 - Class Vice President NMP](#433---class-vice-president-nmp)
+      - [4.3.4 - Class Vice President SMP](#434---class-vice-president-smp)
+      - [4.3.5 - Class Vice President(s) Social](#435---class-vice-presidents-social)
+      - [4.3.6 - Class Vice President IMP Social](#436---class-vice-president-imp-social)
+      - [4.3.7 - Class Vice President NMP Social](#437---class-vice-president-nmp-social)
+      - [4.3.8 - Class Vice President SMP Social](#438---class-vice-president-smp-social)
+      - [4.3.9 - Class Vice President IMP Academic](#439---class-vice-president-imp-academic)
+      - [4.3.10 - Class Vice President NMP Academic](#4310---class-vice-president-nmp-academic)
+      - [4.3.11 - Class Vice President SMP Academic](#4311---class-vice-president-smp-academic)
+      - [4.3.12 - Class Vice President Administration](#4312---class-vice-president-administration)
+      - [4.3.13 - Class Treasurer](#4313---class-treasurer)
+      - [4.3.14 - Class NMP Aboriginal Health Representative](#4314---class-nmp-aboriginal-health-representative)
+      - [4.3.14 - Class SMP Aboriginal Health Representative](#4314---class-smp-aboriginal-health-representative)
+      - [4.3.15 - Class IMP Aboriginal Health Representative](#4315---class-imp-aboriginal-health-representative)
+      - [4.3.16 - Class VFMP Aboriginal Health Representative](#4316---class-vfmp-aboriginal-health-representative)
+    - [BYLAW 5 - NOMINATIONS AND ELECTIONS](#bylaw-5---nominations-and-elections)
+      - [5.1 - Council and Executive Elections](#51---council-and-executive-elections)
+      - [5.1.1 - Elections Officer](#511---elections-officer)
+      - [5.1.2 - Announcement of Election and Call for Nominations](#512---announcement-of-election-and-call-for-nominations)
+      - [5.1.3 - Nominations](#513---nominations)
+      - [5.1.4 - Candidacy and Ballots](#514---candidacy-and-ballots)
+      - [5.1.5 - Election Materials and Speeches](#515---election-materials-and-speeches)
+      - [5.1.6 - Eligibility Requirements](#516---eligibility-requirements)
+      - [5.1.7 - Positions without Candidates](#517---positions-without-candidates)
+      - [5.1.8 - Uncontested Positions](#518---uncontested-positions)
+      - [5.1.9 - Senior Positions](#519---senior-positions)
+      - [5.1.10 - Voting Period](#5110---voting-period)
+      - [5.1.11 - Election Results](#5111---election-results)
+      - [5.1.12 - Appeals](#5112---appeals)
+      - [5.1.13 - Resignation, Disqualification and Vacancy](#5113---resignation-disqualification-and-vacancy)
+      - [5.1.14 - Terms of Positions](#5114---terms-of-positions)
+      - [5.2 - Class Executive Elections](#52---class-executive-elections)
+      - [5.2.1 - Timing of Elections](#521---timing-of-elections)
+      - [5.2.2 - Returning Officer for Class Executive Elections](#522---returning-officer-for-class-executive-elections)
+      - [5.2.3 - Co-Candidates](#523---co-candidates)
+      - [5.2.4 - Resignation, Disqualification, and Vacancy](#524---resignation-disqualification-and-vacancy)
+    - [BYLAW 6 - MEETINGS](#bylaw-6---meetings)
+      - [6.1 - Annual General Meeting](#61---annual-general-meeting)
+      - [6.2 - Special General Meetings](#62---special-general-meetings)
+      - [6.3 - Council Meetings](#63---council-meetings)
+      - [6.4 - Executive Meetings](#64---executive-meetings)
+      - [6.5 - Class Executive Meetings](#65---class-executive-meetings)
+      - [6.6 - Meeting Procedures](#66---meeting-procedures)
+      - [6.6.1 - Annual General, Special General, Executive and Council Meetings](#661---annual-general-special-general-executive-and-council-meetings)
+      - [6.6.1.1 - Notice of Meetings](#6611---notice-of-meetings)
+      - [6.6.1.2 - Setting of Agenda](#6612---setting-of-agenda)
+      - [6.6.1.3 - Attendance](#6613---attendance)
+      - [6.6.1.4 - Privileges](#6614---privileges)
+      - [6.6.1.5 - Minutes](#6615---minutes)
+      - [6.6.2 - Class Executive Meetings](#662---class-executive-meetings)
+      - [6.6.2.1 - Notice of Meetings](#6621---notice-of-meetings)
+      - [6.6.2.2 - Setting of Agenda](#6622---setting-of-agenda)
+      - [6.6.2.3 - Attendance](#6623---attendance)
+      - [6.6.2.4 - Privileges](#6624---privileges)
+      - [6.6.2.5 - Notes](#6625---notes)
+      - [6.6.3 - Jurisdiction](#663---jurisdiction)
+      - [6.6.4 - Quorum](#664---quorum)
+      - [6.6.5 - Voting and Approval of Motions](#665---voting-and-approval-of-motions)
+      - [6.6.6 - Parliamentary Authority](#666---parliamentary-authority)
+    - [BYLAW 7 - FINANCES](#bylaw-7---finances)
+    - [BYLAW 8 - MUS STANDING COMMITTEES](#bylaw-8---mus-standing-committees)
+      - [8.1 - Clubs Committee](#81---clubs-committee)
+      - [8.3 - Travel Bursary Committee](#83---travel-bursary-committee)
+      - [8.4 - Finance Committee](#84---finance-committee)
+      - [8.5 - Constitution and Bylaws Committee](#85---constitution-and-bylaws-committee)
+      - [8.6 - Global Health Committee](#86---global-health-committee)
+      - [8.7 - Academic Strategy Caucus](#87---academic-strategy-caucus)
+      - [8.8 - Medical Education Committee](#88---medical-education-committee)
+    - [BYLAW 9 - REFERENDA](#bylaw-9---referenda)
+    - [BYLAW 10 - REMOVAL FROM OFFICE](#bylaw-10---removal-from-office)
+      - [10.1 - Routine Removal](#101---routine-removal)
+      - [10.2 - Removal of Members from Committees](#102---removal-of-members-from-committees)
+      - [10.3 - Removal of Council Members](#103---removal-of-council-members)
+      - [10.4 - Removal of a Year President or Class Executive Member](#104---removal-of-a-year-president-or-class-executive-member)
+    - [BYLAW 11 - ACCEPTABLE USE OF THE SOCIETY LOGO](#bylaw-11---acceptable-use-of-the-society-logo)
+    - [BYLAW 12 - PUBLICATIONS](#bylaw-12---publications)
+      - [12.1 - The *MUSings*](#121---the-musings)
+      - [12.2 - The MUS Daytimer](#122---the-mus-daytimer)
+      - [12.3 - The MUS Directory](#123---the-mus-directory)
+      - [12.4 - The Society website](#124---the-society-website)
+      - [12.5 - UBC Medical Journal](#125---ubc-medical-journal)
+    - [BYLAW 13 AWARDS](#bylaw-13-awards)
+      - [13.1 - MUS Teaching Excellence Award](#131---mus-teaching-excellence-award)
+      - [13.2 - MUS Dr. William Webber Award](#132---mus-dr-william-webber-award)
+      - [13.3 - MUS Dr. David Hardwick Award](#133---mus-dr-david-hardwick-award)
+    - [BYLAW 14 - PROHIBITION ON DISCRIMINATION](#bylaw-14---prohibition-on-discrimination)
+    - [BYLAW 15 - AFFILIATED ORGANIZATIONS](#bylaw-15---affiliated-organizations)
+      - [15.1 - The Alma Mater Society of UBC (AMS)](#151---the-alma-mater-society-of-ubc-ams)
+      - [15.2 - The Health Science Students Association of UBC (HSSA)](#152---the-health-science-students-association-of-ubc-hssa)
+      - [15.3 - The UBC Medical Alumni Association](#153---the-ubc-medical-alumni-association)
+      - [15.4 - The Canadian Federation of Medical Students (CFMS)](#154---the-canadian-federation-of-medical-students-cfms)
+      - [15.5 - the Professional Association of Residents of British Columbia (PAR-BC)](#155---the-professional-association-of-residents-of-british-columbia-par-bc)
+      - [15.6 - the British Columbia Medical Association (BCMA)](#156---the-british-columbia-medical-association-bcma)
+      - [15.7 - the Canadian Medical Association (CMA)](#157---the-canadian-medical-association-cma)
+      - [15.8 - UBC Mental Health Network (UBC MHN)](#158---ubc-mental-health-network-ubc-mhn)
+
+
+## BYLAW 1 - INTERPRETATION AND DEFINITIONS
 
 1.  All questions affecting the interpretation of the provisions of these By-laws shall be decided by the Council and such decisions shall be final and binding, subject to Bylaw 6, “Meetings”, Section 6.6.3, “Jurisdiction.”
 
@@ -48,8 +207,7 @@ BYLAW 1 - INTERPRETATION AND DEFINITIONS
 
 -   Webber MSAC - shall mean the William A. Webber Medical Student and Alumni Centre.
 
-BYLAW 2 - RIGHTS AND OBLIGATIONS OF MEMBERS
------------------------------------------------------------------------------------------------------------------------------------------
+## BYLAW 2 - RIGHTS AND OBLIGATIONS OF MEMBERS
 
 ### 2.1 - Rights of Members
 
@@ -87,8 +245,7 @@ The obligations of every Active Member of the Society, as defined in Article 2 o
 
 3.  To abide by the Professional Standards of Faculty and Learners document published by the Faculty, and other University or Faculty standards for ethical conduct.
 
-BYLAW 3 - STRUCTURE OF THE SOCIETY
-----------------------------------
+## BYLAW 3 - STRUCTURE OF THE SOCIETY
 
 ### 3.1 - The Executive
 
@@ -272,8 +429,7 @@ The Class Executives shall be composed of fourteen (14) Members, as follows:
 
 4.  Political Advocacy Committee Chairs (Junior and Senior) to be proposed by the political advocacy committee and approved by a vote of the MUS Council.
 
-BYLAW 4 - DUTIES OF COUNCIL MEMBERS
----------------------------------------------------------------------------------------------------------------------------------
+## BYLAW 4 - DUTIES OF COUNCIL MEMBERS
 
 ### 4.1 - General Duties of all Council Members
 
@@ -923,7 +1079,7 @@ The Admissions Committee Representative Jr. shall:
 
 2.  Be a voting member of the Faculty Admissions Selection Committee.
 
-### 4.2.30 - Medical Ball Coordinator 
+### 4.2.30 - Medical Ball Coordinator
 
 The Medical Ball Coordinator:
 
@@ -1325,10 +1481,9 @@ The Class VFMP Aboriginal Health Representative shall:
 
 4.  Collaborate with Aboriginal health representatives and student government representatives at other sites to promote events or initiatives that may include may involve students from multiple sites, and where possible include students at other sites in local events via videoconference, and
 
-5.  All Aboriginal Health Representatives should work to promote the position to incoming students to ensure sustainable handover of these roles from year to year. 
+5.  All Aboriginal Health Representatives should work to promote the position to incoming students to ensure sustainable handover of these roles from year to year.
 
-BYLAW 5 - NOMINATIONS AND ELECTIONS 
-------------------------------------
+## BYLAW 5 - NOMINATIONS AND ELECTIONS
 
 ### 5.1 - Council and Executive Elections
 
@@ -1362,7 +1517,7 @@ BYLAW 5 - NOMINATIONS AND ELECTIONS
 
 8.  Make decisions regarding special or unusual circumstances pertaining to Society Elections upon Council and/or Executive members as appropriate, and shall notify all candidates of these decisions via e-mail and by posting on the Society website.
 
-### 5.1.2 - Announcement of Election and Call for Nominations 
+### 5.1.2 - Announcement of Election and Call for Nominations
 
 Announcements of election and call for nominations shall be made concurrently to the Active Members by the EO via e-mail and by posting in a conspicuous location on the Society website within a reasonable amount of time to the commencement of the voting period, and shall indicate
 
@@ -1374,7 +1529,7 @@ Announcements of election and call for nominations shall be made concurrently to
 
 4.  a description of the Council Members’ responsibilities as obtained from each Council Member in accordance with Bylaw 4, “Duties of Council Members”
 
-### 5.1.3 - Nominations 
+### 5.1.3 - Nominations
 
 Nominations for positions on the Council or Executive must:
 
@@ -1594,8 +1749,7 @@ Should any of these Council Members receive less than 50% confidence, they shall
 
 4.  Any candidate exhibiting unprofessional behaviour may be stricken from the ballot at the discretion of the EO.
 
-BYLAW 6 - MEETINGS
-------------------
+## BYLAW 6 - MEETINGS
 
 ### 6.1 - Annual General Meeting
 
@@ -1649,7 +1803,7 @@ BYLAW 6 - MEETINGS
 
 A class executive meeting will be called by the Year President whenever he/she or ten percent (10%) of the Active Members of the class, by written request, deem it necessary.
 
-### 6.6 - Meeting Procedures 
+### 6.6 - Meeting Procedures
 
 All meetings of the Society shall be held via teleconference to allow Members from all Society sites to participate.
 
@@ -1693,7 +1847,7 @@ All meetings of the Society shall be held via teleconference to allow Members fr
 
 6.  Meetings of the Agenda Committee may be conducted by email, and may be initiated by any member of the Agenda Committee at any time.
 
-### 6.6.1.3 - Attendance 
+### 6.6.1.3 - Attendance
 
 1.  All Voting Council Members shall attend all Annual General, Special General, and Council meetings.
 
@@ -1721,7 +1875,7 @@ All meetings of the Society shall be held via teleconference to allow Members fr
 
 8.  If a Council Member has missed one (1) meeting without prior notice and justified cause, they will be officially notified by the President, or should the Council Member in question be the President, the Past President that upon absence from a second meeting they will be subject to a removal vote in accordance with Bylaw 10, “Removal.”
 
-9.  The procedures in this section shall also apply to Executive Members with regards to attendance at Executive Meetings. 
+9.  The procedures in this section shall also apply to Executive Members with regards to attendance at Executive Meetings.
 
 ### 6.6.1.4 - Privileges
 
@@ -1733,7 +1887,7 @@ All meetings of the Society shall be held via teleconference to allow Members fr
 
 4.  Individuals or Representatives of other organizations may make presentations at Annual General, Special General or Council meetings with approval of the President, but shall leave the Council meeting or videoconferencing venue immediately following their presentation, unless invited to remain by the President, or if this invitation is contested, if Council agrees by majority vote that they may remain. This also pertains to Active and Honorary Members representing other organizations. Further, each MUS Council meeting will normally have a maximum of one (1) presentation from an external organization per meeting. The President will limit the length of each of these presentations to no more than fifteen (15) minutes. This may be overridden by majority approval of the council.
 
-### 6.6.1.5 - Minutes 
+### 6.6.1.5 - Minutes
 
 Minutes for Annual General, Special General, Council Meetings and Executive Meetings shall be taken by the Vice President Communications Jr., and distributed via e-mail to all Active Members and posted on the Society website and email to the student body no later than seven (7) days following the approval of the minutes by the MUS Council. Draft will be sent to MUS Council members within 7 days after the meeting, and final draft will be sent to student body after approval in the next meeting.
 
@@ -1773,7 +1927,7 @@ Minutes for Annual General, Special General, Council Meetings and Executive Meet
 
 ### 6.6.2.5 - Notes
 
-Notes for the Class Executive Meetings shall be taken by the Class Vice President Administration, and distributed via e-mail to the Class Executive no later than seven (7) days following the meeting. 
+Notes for the Class Executive Meetings shall be taken by the Class Vice President Administration, and distributed via e-mail to the Class Executive no later than seven (7) days following the meeting.
 
 ### 6.6.3 - Jurisdiction
 
@@ -1815,8 +1969,7 @@ In areas of conflicting resolutions, decisions of an Annual General or Special G
 
 Parliamentary Procedure according to Roberts Rules of Order shall be followed at all meetings, unless otherwise stated in the Constitution or Bylaws.
 
-BYLAW 7 - FINANCES
-----------------------------------------------------------------------------------------------------------------
+## BYLAW 7 - FINANCES
 
 1.  As a Constituency of the AMS, which is subject to the *Societies Act*, the Society shall abide by the policies and bylaws of the AMS and the AMS Treasurer’s Handbook. Therefore, the Society shall:
 
@@ -1844,8 +1997,7 @@ BYLAW 7 - FINANCES
 
 6.  Society funding of student events may not be allocated towards the purchase of alcohol.
 
-BYLAW 8 - MUS STANDING COMMITTEES
--------------------------------------------------------------------------------------------------------------------------------
+## BYLAW 8 - MUS STANDING COMMITTEES
 
 1.  All MUS committees and caucuses are subject to the rules and bylaws of the MUS constitution
 
@@ -1933,7 +2085,7 @@ BYLAW 8 - MUS STANDING COMMITTEES
 
         2.  Requests over $100 which are consistent with the purposes of the Clubs Committee and are otherwise appropriate require the approval of the Clubs Committee at a duly constituted meeting.
 
-    6.  These allocations will be reported to the Council after allocation has occurred. 
+    6.  These allocations will be reported to the Council after allocation has occurred.
 
 ### 8.3 - Travel Bursary Committee
 
@@ -1979,7 +2131,7 @@ BYLAW 8 - MUS STANDING COMMITTEES
 
 7.  The Travel Bursary Committee budget shall be distributed in accordance with the annual funding scheme decided by the Travel Bursary Committee.
 
-### 8.4 - Finance Committee 
+### 8.4 - Finance Committee
 
 1.  The Finance Committee shall be a standing committee of the Society whose purpose is to advise the Council on financial issues.
 
@@ -2173,8 +2325,7 @@ BYLAW 8 - MUS STANDING COMMITTEES
 
 5.  The membership of the Medical Education Committee Executive Subcommittee shall be proposed annually by the Senior Chair, Junior Chair, VP Academic Jr., and VP Academic Sr. prior to April approved by a vote of the MUS Council at the April AGM of the Council
 
-BYLAW 9 - REFERENDA
--------------------
+## BYLAW 9 - REFERENDA
 
 1.  A referendum shall be held when:
 
@@ -2196,8 +2347,7 @@ BYLAW 9 - REFERENDA
 
 8.  Council shall be bound by the results of a referendum.
 
-BYLAW 10 - REMOVAL FROM OFFICE
-------------------------------
+## BYLAW 10 - REMOVAL FROM OFFICE
 
 ### 10.1 - Routine Removal
 
@@ -2227,7 +2377,7 @@ In the event that any Council Member or holder of an appointed position in the S
 
 5.  In the event of removal of a Year President or Class Executive Member, vacancies shall be filled within thirty (30) days in accordance with Bylaw 5, “Elections,” Section 5.1.13, “Resignation, Disqualification and Vacancy.”
 
-### 10.4 - Removal of a Year President or Class Executive Member 
+### 10.4 - Removal of a Year President or Class Executive Member
 
 1.  Year Presidents or Class Executive Members may be removed from their positions by a majority vote of the Active Members in their respective class.
 
@@ -2235,8 +2385,7 @@ In the event that any Council Member or holder of an appointed position in the S
 
 3.  In the event of removal of a Year President or Class Executive Member, vacancies shall be filled within thirty (30) days accordance with Bylaw 5, “Elections,” Section 5.1.13, “Resignation, Disqualification and Vacancy.”
 
-BYLAW 11 - ACCEPTABLE USE OF THE SOCIETY LOGO
--------------------------------------------------------------------------------------------------------------------------------------------
+## BYLAW 11 - ACCEPTABLE USE OF THE SOCIETY LOGO
 
 The Society logo may only be used by the Society:
 
@@ -2254,8 +2403,7 @@ The Society logo may only be used by the Society:
 
 7.  in any other capacity upon prior approval by the Executive.
 
-BYLAW 12 - PUBLICATIONS
----------------------------------------------------------------------------------------------------------------------
+## BYLAW 12 - PUBLICATIONS
 
 1.  The director(s) of any publication of the Society shall be appointed by the Executive, unless otherwise indicated.
 
@@ -2393,8 +2541,7 @@ BYLAW 12 - PUBLICATIONS
 
 4.  The finances of the *UBC Medical Journal* will be handled solely by the **UBC Medical Journal staff** in consultation with the MUS Vice President Finance
 
-BYLAW 13 AWARDS
--------------------------------------------------------------------------------------------------------------
+## BYLAW 13 AWARDS
 
 ### 13.1 - MUS Teaching Excellence Award
 
@@ -2414,7 +2561,7 @@ BYLAW 13 AWARDS
 
 8.  The winner of the MUS Teaching Excellence Award shall be listed on the Society Website.
 
-### 13.2 - MUS Dr. William Webber Award 
+### 13.2 - MUS Dr. William Webber Award
 
 1.  There shall be a Society award called the MUS Dr. William Webber Award, for Commitment to the Medical Student Community.
 
@@ -2452,13 +2599,11 @@ BYLAW 13 AWARDS
 
 9.  The MUS Dr. David Hardwick Award shall be awarded at the annual Medical Ball.
 
-BYLAW 14 - PROHIBITION ON DISCRIMINATION
---------------------------------------------------------------------------------------------------------------------------------------
+## BYLAW 14 - PROHIBITION ON DISCRIMINATION
 
 The Society shall not discriminate against any person on any ground enumerated in the *Canadian Charter of Rights and Freedoms* or the *British Columbia Human Rights Code*
 
-BYLAW 15 - AFFILIATED ORGANIZATIONS
----------------------------------------------------------------------------------------------------------------------------------
+## BYLAW 15 - AFFILIATED ORGANIZATIONS
 
 The Society is affiliated with the organizations listed in this Bylaw. Affiliation shall allow the representatives of these organizations to attend special or Annual General meetings and Council meetings as non-voting observers.
 
@@ -2476,7 +2621,7 @@ The Society is a Constituency of the AMS according to the AMS Bylaw 13.2(a) and 
 
 See HSSA Constitution.
 
-### 15.3 - The UBC Medical Alumni Association 
+### 15.3 - The UBC Medical Alumni Association
 
 1.  See UBC Medical Alumni Association.
 
