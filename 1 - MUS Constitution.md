@@ -1,9 +1,3 @@
-<style type="text/css">
-	ol { list-style-type: lower-alpha; }
-    ol ol { list-style-type: lower-roman; }
-	ol ol ol { list-style-type: decimal; }
-</style>
-
 **MEDICAL UNDERGRADUATE SOCIETY**
 
 **OF THE UNIVERSITY OF BRITISH COLUMBIA**
