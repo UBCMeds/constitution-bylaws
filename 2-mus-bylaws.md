@@ -29,9 +29,9 @@ RATIFIED the 7<sup>th</sup> day of April, 2008. AMENDED the 8<sup>th</sup> day o
       - [4.2.4 - Vice President Internal](#424---vice-president-internal)
       - [4.2.5 - Past President](#425---past-president)
       - [4.2.6 - Vice President Finance Sr.](#426---vice-president-finance-sr)
-      - [4.2.6.1. - Vice President Finance Jr.](#4261---vice-president-finance-jr)
+        - [4.2.6.1. - Vice President Finance Jr.](#4261---vice-president-finance-jr)
       - [4.2.7 - Vice President Communications Sr.](#427---vice-president-communications-sr)
-      - [4.2.7.1 - Vice President Communications Jr.](#4271---vice-president-communications-jr)
+        - [4.2.7.1 - Vice President Communications Jr.](#4271---vice-president-communications-jr)
       - [4.2.8 - Vice President IMP](#428---vice-president-imp)
       - [4.2.9 - Vice President NMP](#429---vice-president-nmp)
       - [4.2.10 - Vice President SMP](#4210---vice-president-smp)
@@ -114,17 +114,17 @@ RATIFIED the 7<sup>th</sup> day of April, 2008. AMENDED the 8<sup>th</sup> day o
       - [6.5 - Class Executive Meetings](#65---class-executive-meetings)
       - [6.6 - Meeting Procedures](#66---meeting-procedures)
       - [6.6.1 - Annual General, Special General, Executive and Council Meetings](#661---annual-general-special-general-executive-and-council-meetings)
-      - [6.6.1.1 - Notice of Meetings](#6611---notice-of-meetings)
-      - [6.6.1.2 - Setting of Agenda](#6612---setting-of-agenda)
-      - [6.6.1.3 - Attendance](#6613---attendance)
-      - [6.6.1.4 - Privileges](#6614---privileges)
-      - [6.6.1.5 - Minutes](#6615---minutes)
+        - [6.6.1.1 - Notice of Meetings](#6611---notice-of-meetings)
+        - [6.6.1.2 - Setting of Agenda](#6612---setting-of-agenda)
+        - [6.6.1.3 - Attendance](#6613---attendance)
+        - [6.6.1.4 - Privileges](#6614---privileges)
+        - [6.6.1.5 - Minutes](#6615---minutes)
       - [6.6.2 - Class Executive Meetings](#662---class-executive-meetings)
-      - [6.6.2.1 - Notice of Meetings](#6621---notice-of-meetings)
-      - [6.6.2.2 - Setting of Agenda](#6622---setting-of-agenda)
-      - [6.6.2.3 - Attendance](#6623---attendance)
-      - [6.6.2.4 - Privileges](#6624---privileges)
-      - [6.6.2.5 - Notes](#6625---notes)
+        - [6.6.2.1 - Notice of Meetings](#6621---notice-of-meetings)
+        - [6.6.2.2 - Setting of Agenda](#6622---setting-of-agenda)
+        - [6.6.2.3 - Attendance](#6623---attendance)
+        - [6.6.2.4 - Privileges](#6624---privileges)
+        - [6.6.2.5 - Notes](#6625---notes)
       - [6.6.3 - Jurisdiction](#663---jurisdiction)
       - [6.6.4 - Quorum](#664---quorum)
       - [6.6.5 - Voting and Approval of Motions](#665---voting-and-approval-of-motions)
@@ -623,7 +623,7 @@ The Vice President Finance Sr. shall be a Year II, III or IV Member who meets th
 
 11. Prepare the budget for the next fiscal year to be passed at the AGM with the aid of the VP Finance Jr.
 
-### 4.2.6.1. - Vice President Finance Jr.
+#### 4.2.6.1. - Vice President Finance Jr.
 
 The Vice President Finance Assistant shall be a Year I Member who meets the Eligibility Requirements in Bylaw 5.1.6, and shall:
 
@@ -663,7 +663,7 @@ The Vice President Communications Sr. shall be a Year II Member who meets the El
 
 4.  Keep custody of all templates bearing the official emblem of the Society, and the emblem itself
 
-### 4.2.7.1 - Vice President Communications Jr.
+#### 4.2.7.1 - Vice President Communications Jr.
 
 The Vice President Communications Jr. shall be a Year I Member who meets the Eligibility Requirements in Bylaw 5.1.6, and shall:
 
@@ -1809,7 +1809,7 @@ All meetings of the Society shall be held via teleconference to allow Members fr
 
 ### 6.6.1 - Annual General, Special General, Executive and Council Meetings
 
-### 6.6.1.1 - Notice of Meetings
+#### 6.6.1.1 - Notice of Meetings
 
 1.  Notices of the Annual General, Special General, Executive, or Council meetings shall state clearly the date, hour, and places the meeting shall be held at all Society sites.
 
@@ -1821,7 +1821,7 @@ All meetings of the Society shall be held via teleconference to allow Members fr
 
 5.  No error or omission in the giving of notice as aforesaid on any meeting of the Society or claim by any Member or Members that they did not receive notice of the Annual or Special General meeting shall invalidate such meeting or any proceeding taken thereat, unless the failure caused a direct and significant prejudice to the affected Member(s), notwithstanding that a reasonable attempt to provide notice was undertaken, both as adjudicated by the Faculty Advisor.
 
-### 6.6.1.2 - Setting of Agenda
+#### 6.6.1.2 - Setting of Agenda
 
 1.  The Agenda for Annual General, Special General, Executive and Council Meetings will be established by an Agenda Committee consisting of the following members:
 
@@ -1847,7 +1847,7 @@ All meetings of the Society shall be held via teleconference to allow Members fr
 
 6.  Meetings of the Agenda Committee may be conducted by email, and may be initiated by any member of the Agenda Committee at any time.
 
-### 6.6.1.3 - Attendance
+#### 6.6.1.3 - Attendance
 
 1.  All Voting Council Members shall attend all Annual General, Special General, and Council meetings.
 
@@ -1877,7 +1877,7 @@ All meetings of the Society shall be held via teleconference to allow Members fr
 
 9.  The procedures in this section shall also apply to Executive Members with regards to attendance at Executive Meetings.
 
-### 6.6.1.4 - Privileges
+#### 6.6.1.4 - Privileges
 
 1.  All voting and non-voting Council Members have full speaking privileges at all Annual General, Special General and Council Meetings.
 
@@ -1887,19 +1887,19 @@ All meetings of the Society shall be held via teleconference to allow Members fr
 
 4.  Individuals or Representatives of other organizations may make presentations at Annual General, Special General or Council meetings with approval of the President, but shall leave the Council meeting or videoconferencing venue immediately following their presentation, unless invited to remain by the President, or if this invitation is contested, if Council agrees by majority vote that they may remain. This also pertains to Active and Honorary Members representing other organizations. Further, each MUS Council meeting will normally have a maximum of one (1) presentation from an external organization per meeting. The President will limit the length of each of these presentations to no more than fifteen (15) minutes. This may be overridden by majority approval of the council.
 
-### 6.6.1.5 - Minutes
+#### 6.6.1.5 - Minutes
 
 Minutes for Annual General, Special General, Council Meetings and Executive Meetings shall be taken by the Vice President Communications Jr., and distributed via e-mail to all Active Members and posted on the Society website and email to the student body no later than seven (7) days following the approval of the minutes by the MUS Council. Draft will be sent to MUS Council members within 7 days after the meeting, and final draft will be sent to student body after approval in the next meeting.
 
 ### 6.6.2 - Class Executive Meetings
 
-### 6.6.2.1 - Notice of Meetings
+#### 6.6.2.1 - Notice of Meetings
 
 1.  The Class Vice President Administration shall make known to the class via e-mail notice of a Class Executive Meeting at least seven (7) days prior to the time set for the meeting.
 
 2.  The Class Vice President Administration shall make every effort to set meetings at a date and time that enables the greatest number of Class Executive Members to attend.
 
-### 6.6.2.2 - Setting of Agenda
+#### 6.6.2.2 - Setting of Agenda
 
 1.  Members of the Class Executive shall submit proposed agenda items to the Class Vice President Administration, who shall set a proposed Class Executive Meeting Agenda and forward said Agenda to the Year President.
 
@@ -1907,7 +1907,7 @@ Minutes for Annual General, Special General, Council Meetings and Executive Meet
 
 3.  The Class Vice President Administration shall forward the Class Executive Meeting Agenda to the Class Executive at least two (2) days prior to the meeting.
 
-### 6.6.2.3 - Attendance
+#### 6.6.2.3 - Attendance
 
 1.  All Class Executive Members shall attend all Class Executive meetings.
 
@@ -1917,7 +1917,7 @@ Minutes for Annual General, Special General, Council Meetings and Executive Meet
 
 4.  If a Class Executive Member has missed one (1) Class Executive meeting without prior notice and justified cause, they will be officially notified by the Year President, or should the Year President be the Member concerned the Class Academic Vice President, that upon absence from a second meeting they will be subject to a removal vote.
 
-### 6.6.2.4 - Privileges
+#### 6.6.2.4 - Privileges
 
 1.  All Members within a class shall have full speaking privileges at their respective Class Executive meetings.
 
@@ -1925,7 +1925,7 @@ Minutes for Annual General, Special General, Council Meetings and Executive Meet
 
 3.  Active and Honorary Members not elected to the Class Executive may attend any meeting if the Class Executive approves their attendance, but may only participate if recognized by the chair.
 
-### 6.6.2.5 - Notes
+#### 6.6.2.5 - Notes
 
 Notes for the Class Executive Meetings shall be taken by the Class Vice President Administration, and distributed via e-mail to the Class Executive no later than seven (7) days following the meeting.
 
