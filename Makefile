@@ -1,6 +1,6 @@
 .PHONY: all pdf clean
 
-all: 1-mus-constitution.md 2-mus-bylaws.md pdf
+all: 1-mus-constitution.md 2-mus-bylaws.md
 
 pdf: tex 1-mus-constitution.pdf 2-mus-bylaws.pdf 3-mus-appendix.pdf
 
