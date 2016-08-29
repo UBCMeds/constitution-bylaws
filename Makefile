@@ -58,7 +58,7 @@ tex/1-mus-constitution.tex: tex/1-mus-constitution.md
 	awk 'FNR==1{print ""}1' markdown/bylaws-header.md markdown/bylaws-toc.md markdown/bylaws-content.md > 2-mus-bylaws.md
 
 markdown/constitution-toc.md: markdown/constitution-content.md
-	cat markdown/constitution-content.md | perl -ne 'if ($$_ =~ /^\#/) {/(\#+)/; $$padding = $$1; $$padding =~ s/#/  /g; $$_ =~ s/\R//g; $$a=$$_; $$a =~ s/#+ +//g; s/\#+ +/\#/g; s/ +/-/g; s/[\(\)*,.&]*//g; print $$padding . "- [$$a](" . lc($$_) . ")\n"}' > markdown/constitution-toc.md
+	cat markdown/constitution-content.md | perl -ne 'if ($$_ =~ /^\#/) {/(\#+)/; $$padding = $$1; $$padding =~ s/##//; $$padding =~ s/#/  /g; $$_ =~ s/\R//g; $$a=$$_; $$a =~ s/#+ +//g; s/\#+ +/\#/g; s/ +/-/g; s/[\(\)*,.&]*//g; print $$padding . "- [$$a](" . lc($$_) . ")\n"}' > markdown/constitution-toc.md
 
 markdown/bylaws-toc.md: markdown/bylaws-content.md
-	cat markdown/bylaws-content.md | perl -ne 'if ($$_ =~ /^\#/) {/(\#+)/; $$padding = $$1; $$padding =~ s/#/  /g; $$_ =~ s/\R//g; $$a=$$_; $$a =~ s/#+ +//g; s/\#+ +/\#/g; s/ +/-/g; s/[\(\)*,.&]*//g; print $$padding . "- [$$a](" . lc($$_) . ")\n"}' > markdown/bylaws-toc.md
+	cat markdown/bylaws-content.md | perl -ne 'if ($$_ =~ /^\#/) {/(\#+)/; $$padding = $$1; $$padding =~ s/##//; $$padding =~ s/#/  /g; $$_ =~ s/\R//g; $$a=$$_; $$a =~ s/#+ +//g; s/\#+ +/\#/g; s/ +/-/g; s/[\(\)*,.&]*//g; print $$padding . "- [$$a](" . lc($$_) . ")\n"}' > markdown/bylaws-toc.md
