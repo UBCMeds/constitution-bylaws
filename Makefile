@@ -2,13 +2,16 @@
 
 all: 1-mus-constitution.md 2-mus-bylaws.md pdf
 
-pdf: 1-mus-constitution.pdf 2-mus-bylaws.pdf 3-mus-appendix.pdf
+pdf: tex 1-mus-constitution.pdf 2-mus-bylaws.pdf 3-mus-appendix.pdf
 
 clean: 
 	rm markdown/constitution-toc.md markdown/bylaws-toc.md 1-mus-constitution.md 2-mus-bylaws.md tex/* ./*.pdf
 
 tidy:
 	rm markdown/constitution-toc.md markdown/bylaws-toc.md tex/*
+
+tex:
+	mkdir -p tex
 
 
 1-mus-constitution.pdf: tex/1-mus-constitution.pdf
